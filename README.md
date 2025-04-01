@@ -1,6 +1,6 @@
 ## Hola Amigos👋
-I am a self-taught full-stack web developer. I love learn new technologies through building projects so
-feel free to contact me regarding any collabration
+I am a self-taught full-stack web developer. Love learning new technologies through building projects so
+feel free to contact me regarding any collabration 
 #### Email: richardroshan0110@gmail.com
 
 
