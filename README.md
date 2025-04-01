@@ -4,8 +4,8 @@ feel free to contact me regarding any collabration
 #### Email: richardroshan0110@gmail.com
 
 
- ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+ ### My Space
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,git,github,py,cpp,c, solidity vscode,apple,flutter,dart,anaconda)](https://skillicons.dev)
 
 
 <!--
