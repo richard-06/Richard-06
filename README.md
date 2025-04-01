@@ -1,6 +1,10 @@
 ## Hola Amigos👋
-# ih
- 
+I am a self-taught full-stack web developer. I love learn new technologies through building projects so
+feel free to contact me regarding any collabration
+Email: richardroshan0110@gmail.com
+
+
+ My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
