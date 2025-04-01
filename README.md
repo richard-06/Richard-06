@@ -5,7 +5,7 @@ feel free to contact me regarding any collabration
 
 
  ### My Space
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,git,github,py,cpp,c, solidity vscode,apple,flutter,dart,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,git,github,py,solidity,cpp,vscode,flutter,dart,anaconda)](https://skillicons.dev)
 
 
 <!--
